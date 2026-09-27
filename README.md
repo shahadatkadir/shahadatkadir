@@ -16,22 +16,70 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30" height="30" /> **Interactive Tech Stack & Skills Cards:**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30" height="30" /> **My Expertise & Skill Cards:**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahadatkadir&repo=shahadatkadir&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Skill Card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahadatkadir&repo=nextictgen&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Project Card" />
-</p>
-
-এখানে আপনার প্রতিটি স্কিলের মেইন থিম ও দক্ষতাগুলো সুন্দরভাবে কার্ড আকারে সাজানো হলো:
-
-| Tech / Tool | Core Concepts & Expertise | Status |
-| :--- | :--- | :--- |
-| 🌐 **HTML5 & CSS3** | Semantic Markup, Flexbox, CSS Grid, Animations, Responsive Design[cite: 1] | **100% Complete** |
-| ⚡ **JavaScript (ES6+)** | DOM Manipulation, Asynchronous JS, Closures, ES6 Features[cite: 1] | **Advanced** |
-| ⚛️ **React.js** | Hooks (useState, useEffect), Component Architecture, State Management | **Proficient** |
-| 🎨 **Tailwind CSS & Sass** | Utility-first Styling, Custom Mixins, Modular SCSS, PWA Setup | **Advanced** |
-| 🛠️ **Git, GitHub & Vercel** | Version Control, Branching, CI/CD Deployments, Repository Management[cite: 1] | **Experienced** |
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=html,css" width="60" /><br>
+      <h3>HTML5 & CSS3</h3>
+      <p align="left">
+        • Semantic Markup & Accessibility Structure[cite: 1]<br>
+        • Advanced Flexbox & CSS Grid Layouts[cite: 1]<br>
+        • Responsive Design & Custom Animations[cite: 1]
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="60" /><br>
+      <h3>JavaScript (ES6+)</h3>
+      <p align="left">
+        • DOM Manipulation & Event Handling[cite: 1]<br>
+        • Asynchronous JS (Async/Await, Fetch API)[cite: 1]<br>
+        • Modern ES6+ Features & Closures[cite: 1]
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="60" /><br>
+      <h3>React.js</h3>
+      <p align="left">
+        • Component-Based Architecture & Props<br>
+        • State Management (useState, useEffect)<br>
+        • Interactive SPA & Dynamic UI Development
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind,sass" width="60" /><br>
+      <h3>Tailwind CSS & Sass</h3>
+      <p align="left">
+        • Utility-first Modern Styling & Design<br>
+        • Custom Mixins, Variables & Modular SCSS<br>
+        • PWA Setup & Responsive Breakpoints
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=git,github" width="60" /><br>
+      <h3>Git & GitHub</h3>
+      <p align="left">
+        • Version Control & Branch Management[cite: 1]<br>
+        • Repository Setup & Collaboration[cite: 1]<br>
+        • Code Hosting & Workflow Management[cite: 1]
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=vscode,vercel" width="60" /><br>
+      <h3>Tools & Vercel</h3>
+      <p align="left">
+        • VS Code Environment & Extensions Setup[cite: 1]<br>
+        • Fast Production Deployments on Vercel[cite: 1]<br>
+        • Live Web Application Hosting & Testing[cite: 1]
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
