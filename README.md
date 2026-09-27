@@ -16,66 +16,76 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30" height="30" /> **My Expertise & Skill Cards:**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30" height="30" /> **Interactive Animated Skill Cards:**
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=html,css" width="60" /><br>
-      <h3>HTML5 & CSS3</h3>
-      <p align="left">
-        • Semantic Markup & Accessibility Structure[cite: 1]<br>
-        • Advanced Flexbox & CSS Grid Layouts[cite: 1]<br>
-        • Responsive Design & Custom Animations[cite: 1]
+    <!-- HTML5 & CSS3 Card -->
+    <td width="50%" align="center" bgcolor="#0d1117">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=bold&size=22&duration=2000&pause=500&color=E34F26&center=true&vCenter=true&width=200&height=40&lines=HTML5+%26+CSS3" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" style="animation: spin 4s linear infinite;" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+      <p align="left" style="color: #c9d1d9; padding: 10px;">
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=58A6FF&width=280&lines=Semantic+Markup+%26+Accessibility+Structure" /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=3FB950&width=280&lines=Advanced+Flexbox+%26+CSS+Grid+Layouts" /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=F85149&width=280&lines=Responsive+Design+%26+Custom+Animations" />
       </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="60" /><br>
-      <h3>JavaScript (ES6+)</h3>
-      <p align="left">
-        • DOM Manipulation & Event Handling[cite: 1]<br>
-        • Asynchronous JS (Async/Await, Fetch API)[cite: 1]<br>
-        • Modern ES6+ Features & Closures[cite: 1]
+    <!-- JavaScript Card -->
+    <td width="50%" align="center" bgcolor="#0d1117">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=bold&size=22&duration=2000&pause=500&color=F7DF1E&center=true&vCenter=true&width=220&height=40&lines=JavaScript+(ES6%2B)" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+      <p align="left" style="color: #c9d1d9; padding: 10px;">
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=58A6FF&width=280&lines=DOM+Manipulation+%26+Event+Handling" /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=3FB950&width=280&lines=Asynchronous+JS+(Async%2FAwait)" /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=F85149&width=280&lines=Modern+ES6%2B+Features+%26+Closures" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="60" /><br>
-      <h3>React.js</h3>
-      <p align="left">
-        • Component-Based Architecture & Props<br>
-        • State Management (useState, useEffect)<br>
-        • Interactive SPA & Dynamic UI Development
+    <!-- React.js Card -->
+    <td width="50%" align="center" bgcolor="#0d1117">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=bold&size=22&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=150&height=40&lines=React.js" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
+      <p align="left" style="color: #c9d1d9; padding: 10px;">
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=58A6FF&width=280&lines=Component-Based+Architecture" /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=3FB950&width=280&lines=State+Management+(useState%2C+useEffect)" /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=F85149&width=280&lines=Interactive+SPA+%26+Dynamic+UI" />
       </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind,sass" width="60" /><br>
-      <h3>Tailwind CSS & Sass</h3>
-      <p align="left">
-        • Utility-first Modern Styling & Design<br>
-        • Custom Mixins, Variables & Modular SCSS<br>
-        • PWA Setup & Responsive Breakpoints
+    <!-- Tailwind CSS & Sass Card -->
+    <td width="50%" align="center" bgcolor="#0d1117">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=bold&size=22&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=240&height=40&lines=Tailwind+CSS+%26+Sass" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" />
+      <p align="left" style="color: #c9d1d9; padding: 10px;">
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=58A6FF&width=280&lines=Utility-first+Modern+Styling" /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=3FB950&width=280&lines=Custom+Mixins+%26+Modular+SCSS" /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=F85149&width=280&lines=PWA+Setup+%26+Breakpoints" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=git,github" width="60" /><br>
-      <h3>Git & GitHub</h3>
-      <p align="left">
-        • Version Control & Branch Management[cite: 1]<br>
-        • Repository Setup & Collaboration[cite: 1]<br>
-        • Code Hosting & Workflow Management[cite: 1]
+    <!-- Git & GitHub Card -->
+    <td width="50%" align="center" bgcolor="#0d1117">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=bold&size=22&duration=2000&pause=500&color=F05032&center=true&vCenter=true&width=180&height=40&lines=Git+%26+GitHub" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" style="filter: invert(1);" />
+      <p align="left" style="color: #c9d1d9; padding: 10px;">
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=58A6FF&width=280&lines=Version+Control+%26+Branching"[cite: 1] /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=3FB950&width=280&lines=Repository+Setup+%26+Collaboration"[cite: 1] /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=F85149&width=280&lines=Code+Hosting+%26+Workflow"[cite: 1] />
       </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,vercel" width="60" /><br>
-      <h3>Tools & Vercel</h3>
-      <p align="left">
-        • VS Code Environment & Extensions Setup[cite: 1]<br>
-        • Fast Production Deployments on Vercel[cite: 1]<br>
-        • Live Web Application Hosting & Testing[cite: 1]
+    <!-- Tools & Vercel Card -->
+    <td width="50%" align="center" bgcolor="#0d1117">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=bold&size=22&duration=2000&pause=500&color=007ACC&center=true&vCenter=true&width=180&height=40&lines=Tools+%26+Vercel" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="45" style="filter: invert(1);" />
+      <p align="left" style="color: #c9d1d9; padding: 10px;">
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=58A6FF&width=280&lines=VS+Code+Environment+Setup"[cite: 1] /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=3FB950&width=280&lines=Fast+Production+Deployments"[cite: 1] /><br>
+        🔸 <img src="https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&size=13&duration=4000&pause=1000&color=F85149&width=280&lines=Live+Web+Hosting+%26+Testing"[cite: 1] />
       </p>
     </td>
   </tr>
