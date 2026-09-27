@@ -25,7 +25,7 @@
 <table width="100%" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
     <!-- HTML5 & CSS3 Card -->
-    <td width="50%" align="center" bgcolor="#0d1117" style="border-radius: 12px; padding: 20px;">
+    <td width="50%" align="center" bgcolor="#00ff00" style="border-radius: 12px; padding: 20px;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=bold&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=200&height=40&lines=HTML5+%26+CSS3" /><br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" /> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" /><br><br>
