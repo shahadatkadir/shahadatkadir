@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" /> Hi There, I'm MD. Shahadat Ali
+#  👋 Hi There, I'm MD. Shahadat Ali
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=50&lines=🚀+Frontend+Developer+%7C+Building+Modern+Web+Apps;💻+React%2C+JavaScript+%26+Tailwind+CSS+Expert;🌟+Passionate+about+UI%2FUX+%26+Clean+Code" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" height="30" /> **About Me:**
+### 🚀 **About Me:**
 
 * 🚀 **Bio:** Aspiring Full Stack Developer | Building modern web apps with React, JavaScript & Tailwind CSS[cite: 1] | Learning Next.js & backend technologies[cite: 1]
 * 🌍 **Based in:** Bangladesh[cite: 1]
@@ -97,12 +97,12 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="30" height="30" /> **Connect with me:**
+### 🌐 **Connect with me:**
 
 <p align="left">
   <!-- GitHub -->
   <a href="https://github.com/shahadatkadir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&rounded=true" alt="GitHub" style="border-radius: 30px;" />
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/md-shahadat-ali-8557973b3/" target="_blank">
@@ -120,7 +120,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" /> **GitHub Stats & Analytics:**
+### 📊 **GitHub Stats & Analytics:**
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadatkadir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Loading GitHub Stats..." />
