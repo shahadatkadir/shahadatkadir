@@ -16,15 +16,22 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30" height="30" /> **Tech Stack & Skills:**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30" height="30" /> **Interactive Tech Stack & Skills Cards:**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,sass,git,github,vscode,vercel&theme=dark" alt="Tech Stack Icons" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahadatkadir&repo=shahadatkadir&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Skill Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahadatkadir&repo=nextictgen&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Project Card" />
 </p>
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3[cite: 1]
-- **Frontend Frameworks & Libraries:** React.js, Tailwind CSS, Sass[cite: 1]
-- **Tools & Platforms:** Git, GitHub, VS Code, Vercel[cite: 1]
+এখানে আপনার প্রতিটি স্কিলের মেইন থিম ও দক্ষতাগুলো সুন্দরভাবে কার্ড আকারে সাজানো হলো:
+
+| Tech / Tool | Core Concepts & Expertise | Status |
+| :--- | :--- | :--- |
+| 🌐 **HTML5 & CSS3** | Semantic Markup, Flexbox, CSS Grid, Animations, Responsive Design[cite: 1] | **100% Complete** |
+| ⚡ **JavaScript (ES6+)** | DOM Manipulation, Asynchronous JS, Closures, ES6 Features[cite: 1] | **Advanced** |
+| ⚛️ **React.js** | Hooks (useState, useEffect), Component Architecture, State Management | **Proficient** |
+| 🎨 **Tailwind CSS & Sass** | Utility-first Styling, Custom Mixins, Modular SCSS, PWA Setup | **Advanced** |
+| 🛠️ **Git, GitHub & Vercel** | Version Control, Branching, CI/CD Deployments, Repository Management[cite: 1] | **Experienced** |
 
 ---
 
