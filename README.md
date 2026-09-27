@@ -29,7 +29,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=bold&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=200&height=40&lines=HTML5+%26+CSS3" /><br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" /> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" /><br><br>
-      <p align="left" style="color: #E9D5FF; padding: 5px;">
+      <p align="left" style="color: #800080; padding: 5px;">
         🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=D8B4FE&width=350&lines=Semantic+Markup+%26+Accessibility+Structure" /><br>
         🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=C084FC&width=350&lines=Advanced+Flexbox+%26+CSS+Grid+Layouts" /><br>
         🔸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=E879F9&width=350&lines=Responsive+Design+%26+Custom+Animations" />
